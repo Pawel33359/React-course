@@ -1,0 +1,126 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Rolando Lesch V",
+      "id": 2
+    },
+    {
+      "name": "Blanca Champlin",
+      "id": 3
+    },
+    {
+      "name": "Mrs. Carlton Jacobs",
+      "id": 4
+    },
+    {
+      "name": "Dave Buckridge",
+      "id": 8
+    },
+    {
+      "name": "Clarence Gutmann",
+      "id": 9
+    },
+    {
+      "name": "Lillian Lowe",
+      "id": 10
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking trip",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Bronze Computer",
+      "id": 11
+    },
+    {
+      "userId": 2,
+      "title": "Refined Rubber Car",
+      "id": 13
+    },
+    {
+      "userId": 4,
+      "title": "Modern Fresh Keyboard",
+      "id": 14
+    },
+    {
+      "userId": 2,
+      "title": "Handmade Fresh Mouse",
+      "id": 15
+    },
+    {
+      "userId": 3,
+      "title": "Practical Rubber Hat",
+      "id": 16
+    },
+    {
+      "userId": 9,
+      "title": "Ergonomic Frozen Bike",
+      "id": 17
+    },
+    {
+      "userId": 8,
+      "title": "Small Steel Table",
+      "id": 18
+    },
+    {
+      "userId": 2,
+      "title": "Electronic Plastic Table",
+      "id": 20
+    },
+    {
+      "userId": 9,
+      "title": "Licensed Bronze Chicken",
+      "id": 21
+    },
+    {
+      "userId": 10,
+      "title": "Sleek Granite Table",
+      "id": 22
+    },
+    {
+      "userId": 8,
+      "title": "Handmade Wooden Gloves",
+      "id": 23
+    },
+    {
+      "userId": 1,
+      "title": "Small Fresh Cheese",
+      "id": 24
+    },
+    {
+      "userId": 4,
+      "title": "Gorgeous Soft Table",
+      "id": 26
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=53354",
+      "id": 1
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=71027",
+      "id": 3
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=72300",
+      "id": 4
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=16382",
+      "id": 5
+    }
+  ]
+}
